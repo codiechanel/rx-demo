@@ -95,7 +95,7 @@ function MainSvg(props) {
 						.style('fill', 'red')
 						.attr('cx', 500);
 				}}>
-				cools nixwe hmm
+				cools nixwe hmm sure
 			</button>
 		</div>
 	);
